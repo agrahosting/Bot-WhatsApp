@@ -1,10 +1,10 @@
 {
-    "name": "lenwy",
+    "name": "Agra",
     "version": "1.0",
-    "description": "Lenwy Bot WhatsApp",
+    "description": "Agra Bot WhatsApp",
     "main": "index.js",
     "scripts": {
-        "authhor": "Lenwy",
+        "authhor": "Agra",
         "license": "MIT",
         "start": "node index.js"
     },
